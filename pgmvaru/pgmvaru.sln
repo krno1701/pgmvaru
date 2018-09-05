@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgmvaru", "pgmvaru\pgmvaru.csproj", "{5B20BB1E-5261-46D1-8AB1-C6294918581C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B20BB1E-5261-46D1-8AB1-C6294918581C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B20BB1E-5261-46D1-8AB1-C6294918581C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B20BB1E-5261-46D1-8AB1-C6294918581C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B20BB1E-5261-46D1-8AB1-C6294918581C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7879654E-03E2-4745-99CB-21C813D070B6}
+	EndGlobalSection
+EndGlobal
